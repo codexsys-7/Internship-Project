@@ -1,0 +1,44 @@
+good morning sir, my name is abhinay along with my friends hruthik reddy and venkatesh. 
+we are here to present our internship project presentation that we have done in the academic year of 2019-2020.
+we have done our project based on the student information management system using python as programming language and mysql as Database.
+Although we were aware that this project might be little old enough, but we had created this project in the light to of creating something better than other.
+so, although there are very state of the art information management system that had been in use in many universities and reputed colleges whose cost might be 
+very high and maintainence might go sky rocket, which the college can afford.
+but what about the colleges which are not having enough financial resources, they might face severe problems in maintaining their students data 
+and they also cannot afford to the tools which can handle them,
+so in the light of this issue in order to create something better and faster we have come up with this project student information management system, 
+as this is just a prototype model, this can only be used along with smaller organisation such as a school with 1-6 classes or and tution etc.
+
+
+
+
+introduction:
+as i have already discussed, this student management system helps us to manage and maintain student logs and data
+or day to day student activities which might get very hectic if any organisation is dealing with just a pen, paper and bundles of files lying righ at the corner.
+so this might remarkably help the oragnisation to save a lot of time and money and also their energy.
+
+so sir, as i have mentioned we have used python as programming language and sql as database to store and retrieve the files.
+apart from this we have used some libraries such as:
+tkinter tkinter is an inbuilt python module which helps us to make gui applications and its is easy to use 
+and we dont have to seperatly install it as it comes along with python.
+pandas: it is a data analysis and manipulation tool.
+numpy : for high level mathematical computations that support along with large, multi dimensioanal arrays.
+scipy : for scientific computations.
+
+mysql: MySQL is an open-source relational database management system (RDBMS).
+where the data is stored in the form of rows and columns, which is very fast, easy to use and reliable too.
+
+
+
+
+ER DIAGRAM,
+as we can see the ER diagram is dipicting the relation between the admin/teacher and student, 
+where the admin/teacher is responsible for maintaining the students records/details such as
+id, name, ph no, email, test scores, attendance etc.
+
+
+USE CASE DIAGRAM.
+a use case diagram also helps us to visualize the relation ship between the admin and the student but, wtih the usecases and actors which mighjt be external users or internl users.
+so in our use case diagram we have 2 actors responsible for performing actions like updating, deleting, adding, retrieving, searching.
+where an admin/teacher can perform almost every actions, bu that can be limited to student, because of misusing the deatils/ privacy issues.
+
